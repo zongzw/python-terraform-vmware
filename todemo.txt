@@ -1,0 +1,6 @@
+1. add virtualmachine
+2. change virtualmachine
+3. change configuration of vm
+4. multiple add vm
+5. delete vm from vsphere
+6. all together 
